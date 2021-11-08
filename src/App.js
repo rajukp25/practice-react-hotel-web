@@ -133,6 +133,69 @@ function App() {
             <img src="img/about-us-img-4.jpeg" class="image image-4" />
           </div>
         </section>
+
+        <section className="rooms">
+        <div className="common-header">
+          <h1 className="common-heading">Rooms In Grand Hotel</h1>
+          <div className="underline">
+            <div className="small-underline" />
+            <div className="big-underline" />
+          </div>
+        </div>
+        <div className="rooms-cards-wrapper">
+          <div className="room-card">
+            <img src="img/single-room.jpeg" className="room-img" />
+            <div className="room-card-content">
+              <h4 className="room-card-heading">Single Room</h4>
+              <p className="room-card-paragraph">single room one bed.</p>
+              <p className="room-price">$99.00</p>
+              <button className="room-card-btn">
+                Book Now
+                <i className="fas fa-angle-double-right btn-arrow" />
+              </button>
+            </div>
+          </div>
+          <div className="room-card">
+            <img src="img/double-room.jpeg" className="room-img" />
+            <div className="room-card-content">
+              <h4 className="room-card-heading">Double Room</h4>
+              <p className="room-card-paragraph">double room two beds.</p>
+              <p className="room-price">$199.00</p>
+              <button className="room-card-btn">
+                Book Now
+                <i className="fas fa-angle-double-right btn-arrow" />
+              </button>
+            </div>
+          </div>
+          <div className="room-card">
+            <img src="img/lux.jpeg" className="room-img" />
+            <div className="room-card-content">
+              <h4 className="room-card-heading">Lux</h4>
+              <p className="room-card-paragraph">lux rooms king bed.</p>
+              <p className="room-price">$299.00</p>
+              <button className="room-card-btn">
+                Book Now
+                <i className="fas fa-angle-double-right btn-arrow" />
+              </button>
+            </div>
+          </div>
+          <div className="room-card">
+            <img src="img/vip.jpeg" className="room-img" />
+            <div className="room-card-content">
+              <h4 className="room-card-heading">VIP</h4>
+              <p className="room-card-paragraph">VIP room double king.</p>
+              <p className="room-price">$399.00</p>
+              <button className="room-card-btn">
+                Book Now
+                <i className="fas fa-angle-double-right btn-arrow" />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div className="rooms-btn-wrapper">
+          <button className="rooms-btn">Check All Rooms</button>
+        </div>
+      </section>
       </header>
     </div>
   );
