@@ -235,7 +235,7 @@ function App() {
                 </li>
               </ul>
               <div className="year">
-                <p>2018</p>
+                <p>2021</p>
               </div>
             </div>
             {/* end of sidebar */}
@@ -271,7 +271,7 @@ function App() {
                 </li>
               </ul>
               <div className="copyright">
-                <p>© 2018. Grand Hotel. All Rights Reserved</p>
+                <p>© 2021. Grand Hotel. All Rights Reserved</p>
               </div>
             </nav>
             {/* end of navigation */}
@@ -301,7 +301,7 @@ function App() {
                 <div className="big-underline" />
               </div>
               <h3 className="sub-heading">Grand Hotel</h3>
-              <p className="about-us-paragraph">Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus accusantium exercitationem qui quis perspiciatis totam dolores. Numquam inventore temporibus recusandae? Eos eaque quia eius culpa nulla vitae, cumque enim voluptates!</p>
+              <p className="about-us-paragraph">welcome to Grand Hotel</p>
               <button className="about-us-btn">
                 Read More
                 <i className="fas fa-angle-double-right btn-arrow" />
@@ -329,7 +329,7 @@ function App() {
                 <img src="img/single-room.jpeg" className="room-img" />
                 <div className="room-card-content">
                   <h4 className="room-card-heading">Single Room</h4>
-                  <p className="room-card-paragraph">Lorem ipsum dolor sit amet.</p>
+                  <p className="room-card-paragraph">Singlr Room.</p>
                   <p className="room-price">$99.00</p>
                   <button className="room-card-btn">
                     Book Now
@@ -341,7 +341,7 @@ function App() {
                 <img src="img/double-room.jpeg" className="room-img" />
                 <div className="room-card-content">
                   <h4 className="room-card-heading">Double Room</h4>
-                  <p className="room-card-paragraph">Lorem ipsum dolor sit amet.</p>
+                  <p className="room-card-paragraph">Double Room.</p>
                   <p className="room-price">$199.00</p>
                   <button className="room-card-btn">
                     Book Now
@@ -353,7 +353,7 @@ function App() {
                 <img src="img/lux.jpeg" className="room-img" />
                 <div className="room-card-content">
                   <h4 className="room-card-heading">Lux</h4>
-                  <p className="room-card-paragraph">Lorem ipsum dolor sit amet.</p>
+                  <p className="room-card-paragraph">Lux room</p>
                   <p className="room-price">$299.00</p>
                   <button className="room-card-btn">
                     Book Now
@@ -365,7 +365,7 @@ function App() {
                 <img src="img/vip.jpeg" className="room-img" />
                 <div className="room-card-content">
                   <h4 className="room-card-heading">VIP</h4>
-                  <p className="room-card-paragraph">Lorem ipsum dolor sit amet.</p>
+                  <p className="room-card-paragraph">VIP room</p>
                   <p className="room-price">$399.00</p>
                   <button className="room-card-btn">
                     Book Now
@@ -388,7 +388,7 @@ function App() {
                 <div className="big-underline" />
               </div>
             </div>
-            <p className="customers-paragraph">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis, aspernatur sint! Esse aliquam explicabo aperiam eos, ipsum nam consectetur ipsa!</p>
+            <p className="customers-paragraph">very good</p>
             <div className="customers-card-wrapper">
               <div className="customer-card">
                 <div className="customer-image-wrapper">
@@ -397,7 +397,7 @@ function App() {
                 <div className="customer-info">
                   <h3 className="customer-fullname">Helen Doe</h3>
                   <p className="customer-paragraph-1">Happy Customer</p>
-                  <p className="customer-paragraph-2">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima labore magni assumenda laboriosam nesciunt animi dolorem inventore mollitia nihil, possimus, vitae odio. Veniam alias, mollitia ab rem tenetur sint ex."</p>
+                  <p className="customer-paragraph-2">super</p>
                 </div>
               </div>
               <div className="customer-card">
@@ -407,7 +407,7 @@ function App() {
                 <div className="customer-info">
                   <h3 className="customer-fullname">Monica Smith</h3>
                   <p className="customer-paragraph-1">Happy Customer</p>
-                  <p className="customer-paragraph-2">"Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima labore magni assumenda laboriosam nesciunt animi dolorem inventore mollitia nihil, possimus, vitae odio. Veniam alias, mollitia ab rem tenetur sint ex."</p>
+                  <p className="customer-paragraph-2">best</p>
                 </div>
               </div>
             </div>
@@ -431,7 +431,7 @@ function App() {
                   </li>
                   <li className="footer-list-item">
                     <a href="#" className="footer-list-link">
-                      Tel: +123 456 789
+                      Tel: +11111111111
                     </a>
                   </li>
                 </ul>
@@ -505,10 +505,10 @@ function App() {
             </div>
             <div className="creator-part">
               <div className="copyright-text">
-                <p>Copyright © 2018. Grand Hotel. All Rights Reserved</p>
+                <p>Copyright © 2021. Grand Hotel. All Rights Reserved</p>
               </div>
               <div className="text-right">
-                <p>Made With <i className="fas fa-heart" /> by <span>CodeAndCreate</span></p>
+              
               </div>
             </div>
           </footer>
